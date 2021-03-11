@@ -39,8 +39,10 @@ API calls used to retrieve the data from the Marvel API:
  - Docker 20.10.x, Docker Compose 1.27.x
  
  # Local installation instructions
+ - Run
  ```Bash
 ./init.sh
  ```
+ - Open http://localhost:3000
 
 * Access to the Postgres database (port: 3432, username: postgres, password: password)
