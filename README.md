@@ -1,28 +1,3 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
 # Assignment
 
 ## Marvel Impossible Travel
@@ -38,3 +13,7 @@ Note: The api has a limit of 3000 calls/day so please be careful with your tools
 # Application
 
 A running version is deployed with containers on heroku: https://aqueous-ravine-19157.herokuapp.com/characters?search=spectrum
+
+# Usage
+* Reset the data: Under "Search characters", click the "Destroy All" link to reset the data
+* Launch the search: Enter "Spectrum" in the text field  and click "Search". It may take up to a minute to load and display the searched Superhero (Spectrum) and all the other organizations and characters she worked with. 
