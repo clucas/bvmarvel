@@ -96,6 +96,5 @@ class Marvel::Service
 
   def log(message)
     Rails.logger.info message
-    puts message
   end
 end
