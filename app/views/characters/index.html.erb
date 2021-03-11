@@ -1,0 +1,59 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Search characters</h1>
+<p>
+  <%= form_tag(characters_path, method: 'get') do %>
+    <%= text_field_tag(:search, params[:search]) %>
+    <%= submit_tag("Search", name: nil) %>
+  <% end %>
+  <span>This will load and display all the characters the Marvel superhero worked with. (THIS MAY TAKE UP TO A MINUTE)</span>
+</p>
+<p>
+  <%#= link_to 'Destroy All', :action => 'destroy_all', :confirm => 'Are you sure?', :method => :delete %>
+  <%= link_to "Destroy All", destroy_all_characters_path, confirm: "Are you sure?", method: :delete %>
+</p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<% if @search_message %>
+  <p><%= @search_message %></p>
+<% end %>
+
+<% if params[:story_marvel_uuid] %>
+  <h3><%= "Characters for story #{params[:story_marvel_uuid]}" %></h3>
+<% else %>
+  <h3>Characters</h3>
+<% end %>
+
+<table>
+  <thead>
+    <tr>
+      <th>Picture</th>
+      <th>Name</th>
+      <th>Marvel id</th>
+      <th>Description</th>
+      <th colspan="3"></th>
+      <th>Stories</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @characters.each do |character| %>
+      <tr>
+        <td><%= image_tag character.picture_url, style: 'height:100%;width:auto;' %></td>
+        <td><%= character.name %></td>
+        <td><%= character.marvel_uuid %></td>
+        <td><%= character.description %></td>
+        <td><%= link_to 'Show', character %></td>
+        <td><%#= link_to 'Edit', edit_character_path(character) %></td>
+        <td><%#= link_to 'Destroy', character, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+        <td><%= link_to 'Stories', stories_path(marvel_uuid: character.marvel_uuid) %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+

@@ -1,0 +1,2790 @@
+{
+  "code": 200,
+  "status": "Ok",
+  "copyright": "© 2021 MARVEL",
+  "attributionText": "Data provided by Marvel. © 2021 MARVEL",
+  "attributionHTML": "<a href=\"http://marvel.com\">Data provided by Marvel. © 2021 MARVEL</a>",
+  "etag": "b40b926d7c1ce17f94663a62d746d6ce2da33a16",
+  "data": {
+    "offset": 0,
+    "limit": 32,
+    "total": 32,
+    "count": 32,
+    "results": [
+      {
+        "id": 14867,
+        "title": "AVENGERS (1963) #290",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/14867",
+        "type": "cover",
+        "modified": "2017-01-24T15:49:00-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/14867/creators",
+          "items": [],
+          "returned": 0
+        },
+        "characters": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/14867/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009220",
+              "name": "Captain America"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011095",
+              "name": "Captain Marvel (Monica Rambeau)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009583",
+              "name": "She-Hulk (Jennifer Walters)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010705",
+              "name": "Spectrum"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010791",
+              "name": "Sub-Mariner"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011022",
+              "name": "Super-Adaptoid"
+            }
+          ],
+          "returned": 7
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/14867/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/1991",
+              "name": "Avengers (1963 - 1996)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/14867/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/7164",
+              "name": "Avengers (1963) #290"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/14867/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/7164",
+          "name": "Avengers (1963) #290"
+        }
+      },
+      {
+        "id": 125339,
+        "title": "cover from Ultimates (2015) #7",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/125339",
+        "type": "cover",
+        "modified": "2016-07-28T15:57:30-0400",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/125339/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12376",
+              "name": "Wilson Moss",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9598",
+              "name": "Kenneth Rocafort",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/125339/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+              "name": "Black Panther"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011339",
+              "name": "Blue Marvel"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+              "name": "Captain Marvel (Carol Danvers)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010705",
+              "name": "Spectrum"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            }
+          ],
+          "returned": 5
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/125339/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/20890",
+              "name": "Ultimates (2015 - 2016)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/125339/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/57261",
+              "name": "Ultimates (2015) #7"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/125339/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/57261",
+          "name": "Ultimates (2015) #7"
+        }
+      },
+      {
+        "id": 125341,
+        "title": "cover from Ultimates (2015) #8",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/125341",
+        "type": "cover",
+        "modified": "2016-07-28T15:56:24-0400",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/125341/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12376",
+              "name": "Wilson Moss",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9598",
+              "name": "Kenneth Rocafort",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/125341/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+              "name": "Black Panther"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011339",
+              "name": "Blue Marvel"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+              "name": "Captain Marvel (Carol Danvers)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010705",
+              "name": "Spectrum"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            }
+          ],
+          "returned": 5
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/125341/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/20890",
+              "name": "Ultimates (2015 - 2016)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/125341/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/57262",
+              "name": "Ultimates (2015) #8"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/125341/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/57262",
+          "name": "Ultimates (2015) #8"
+        }
+      },
+      {
+        "id": 125343,
+        "title": "cover from Ultimates (2015) #9",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/125343",
+        "type": "cover",
+        "modified": "2016-07-28T15:55:32-0400",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/125343/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12376",
+              "name": "Wilson Moss",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9598",
+              "name": "Kenneth Rocafort",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/125343/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+              "name": "Black Panther"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011339",
+              "name": "Blue Marvel"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+              "name": "Captain Marvel (Carol Danvers)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010705",
+              "name": "Spectrum"
+            }
+          ],
+          "returned": 4
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/125343/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/20890",
+              "name": "Ultimates (2015 - 2016)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/125343/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/57263",
+              "name": "Ultimates (2015) #9"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/125343/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/57263",
+          "name": "Ultimates (2015) #9"
+        }
+      },
+      {
+        "id": 125345,
+        "title": "cover from Ultimates (2015) #10",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/125345",
+        "type": "cover",
+        "modified": "2016-08-09T16:56:06-0400",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/125345/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9598",
+              "name": "Kenneth Rocafort",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/125345/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+              "name": "Black Panther"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011339",
+              "name": "Blue Marvel"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+              "name": "Captain Marvel (Carol Danvers)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010705",
+              "name": "Spectrum"
+            }
+          ],
+          "returned": 4
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/125345/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/20890",
+              "name": "Ultimates (2015 - 2016)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/125345/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/57264",
+              "name": "Ultimates (2015) #10"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/125345/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/57264",
+          "name": "Ultimates (2015) #10"
+        }
+      },
+      {
+        "id": 125347,
+        "title": "cover from Ultimates (2015) #11",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/125347",
+        "type": "cover",
+        "modified": "2016-09-23T10:49:22-0400",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/125347/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9598",
+              "name": "Kenneth Rocafort",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/125347/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+              "name": "Black Panther"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011339",
+              "name": "Blue Marvel"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+              "name": "Captain Marvel (Carol Danvers)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010705",
+              "name": "Spectrum"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009652",
+              "name": "Thanos"
+            }
+          ],
+          "returned": 5
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/125347/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/20890",
+              "name": "Ultimates (2015 - 2016)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/125347/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/57265",
+              "name": "Ultimates (2015) #11"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/125347/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/57265",
+          "name": "Ultimates (2015) #11"
+        }
+      },
+      {
+        "id": 125349,
+        "title": "cover from Ultimates (2015) #12",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/125349",
+        "type": "cover",
+        "modified": "2016-10-21T14:06:57-0400",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/125349/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/9598",
+              "name": "Kenneth Rocafort",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/125349/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+              "name": "Black Panther"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011339",
+              "name": "Blue Marvel"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+              "name": "Captain Marvel (Carol Danvers)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009312",
+              "name": "Galactus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010705",
+              "name": "Spectrum"
+            }
+          ],
+          "returned": 5
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/125349/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/20890",
+              "name": "Ultimates (2015 - 2016)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/125349/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/57266",
+              "name": "Ultimates (2015) #12"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/125349/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/57266",
+          "name": "Ultimates (2015) #12"
+        }
+      },
+      {
+        "id": 125351,
+        "title": "cover from Ultimates (2015) #13",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/125351",
+        "type": "cover",
+        "modified": "2016-11-18T17:15:44-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/125351/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/735",
+              "name": "Travel Foreman",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/125351/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+              "name": "Black Panther"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011339",
+              "name": "Blue Marvel"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+              "name": "Captain Marvel (Carol Danvers)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009312",
+              "name": "Galactus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010705",
+              "name": "Spectrum"
+            }
+          ],
+          "returned": 5
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/125351/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/22929",
+              "name": "Ultimates 2 (2016 - 2017)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/125351/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/57267",
+              "name": "Ultimates 2 (2016) #1"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/125351/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/57267",
+          "name": "Ultimates 2 (2016) #1"
+        }
+      },
+      {
+        "id": 133291,
+        "title": "cover from Captain Marvel (2016) #6",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/133291",
+        "type": "cover",
+        "modified": "2017-06-23T14:57:14-0400",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/133291/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11841",
+              "name": "Sana Amanat",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12832",
+              "name": "Elizabeth Torque",
+              "role": "penciler (cover)"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/133291/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010370",
+              "name": "Alpha Flight"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+              "name": "Captain Marvel (Carol Danvers)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010705",
+              "name": "Spectrum"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010803",
+              "name": "Ultimates"
+            }
+          ],
+          "returned": 4
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/133291/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/22551",
+              "name": "The Mighty Captain Marvel (2017 - 2018)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/133291/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/61431",
+              "name": "The Mighty Captain Marvel (2017) #6"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/133291/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/61431",
+          "name": "The Mighty Captain Marvel (2017) #6"
+        }
+      },
+      {
+        "id": 133295,
+        "title": "cover from Captain Marvel (2016) #8",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/133295",
+        "type": "cover",
+        "modified": "2017-08-22T18:19:03-0400",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/133295/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11841",
+              "name": "Sana Amanat",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12832",
+              "name": "Elizabeth Torque",
+              "role": "penciler (cover)"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/133295/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010370",
+              "name": "Alpha Flight"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+              "name": "Captain Marvel (Carol Danvers)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010705",
+              "name": "Spectrum"
+            }
+          ],
+          "returned": 3
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/133295/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/22551",
+              "name": "The Mighty Captain Marvel (2017 - 2018)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/133295/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/61433",
+              "name": "The Mighty Captain Marvel (2017) #8"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/133295/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/61433",
+          "name": "The Mighty Captain Marvel (2017) #8"
+        }
+      },
+      {
+        "id": 134635,
+        "title": "cover from Captain Marvel (2018)",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/134635",
+        "type": "cover",
+        "modified": "2017-12-14T11:42:53-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/134635/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12832",
+              "name": "Elizabeth Torque",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/134635/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010370",
+              "name": "Alpha Flight"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+              "name": "Captain Marvel (Carol Danvers)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010705",
+              "name": "Spectrum"
+            }
+          ],
+          "returned": 3
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/134635/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/22753",
+              "name": "The Mighty Captain Marvel Vol. 2: Band of Sisters (2017)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/134635/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/62125",
+              "name": "The Mighty Captain Marvel Vol. 2: Band of Sisters (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/134635/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/62125",
+          "name": "The Mighty Captain Marvel Vol. 2: Band of Sisters (Trade Paperback)"
+        }
+      },
+      {
+        "id": 135853,
+        "title": "Cover to  Ultimates 2 (2016) #2",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/135853",
+        "type": "cover",
+        "modified": "2016-12-16T12:06:04-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/135853/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12470",
+              "name": "Christian Ward",
+              "role": "penciler (cover)"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/135853/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+              "name": "Black Panther"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011339",
+              "name": "Blue Marvel"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+              "name": "Captain Marvel (Carol Danvers)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009312",
+              "name": "Galactus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010705",
+              "name": "Spectrum"
+            }
+          ],
+          "returned": 5
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/135853/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/22929",
+              "name": "Ultimates 2 (2016 - 2017)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/135853/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/62432",
+              "name": "Ultimates 2 (2016) #2"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/135853/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/62432",
+          "name": "Ultimates 2 (2016) #2"
+        }
+      },
+      {
+        "id": 136390,
+        "title": "cover from Ultimates 2 (2016) #4",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/136390",
+        "type": "cover",
+        "modified": "2017-02-10T11:37:58-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/136390/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12470",
+              "name": "Christian Ward",
+              "role": "penciller (cover)"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/136390/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+              "name": "Black Panther"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011339",
+              "name": "Blue Marvel"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+              "name": "Captain Marvel (Carol Danvers)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009312",
+              "name": "Galactus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010705",
+              "name": "Spectrum"
+            }
+          ],
+          "returned": 5
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/136390/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/22929",
+              "name": "Ultimates 2 (2016 - 2017)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/136390/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/62588",
+              "name": "Ultimates 2 (2016) #4"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/136390/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/62588",
+          "name": "Ultimates 2 (2016) #4"
+        }
+      },
+      {
+        "id": 137126,
+        "title": "cover from ULTIMATES 2 VOL. 1: TROUBLESHOOTERS TPB (2017) #1",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/137126",
+        "type": "cover",
+        "modified": "2017-06-15T18:50:51-0400",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/137126/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/735",
+              "name": "Travel Foreman",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/137126/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+              "name": "Black Panther"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011339",
+              "name": "Blue Marvel"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+              "name": "Captain Marvel (Carol Danvers)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011061",
+              "name": "Eternity"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009312",
+              "name": "Galactus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011424",
+              "name": "Miss America"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010705",
+              "name": "Spectrum"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010803",
+              "name": "Ultimates"
+            }
+          ],
+          "returned": 8
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/137126/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/23108",
+              "name": "Ultimates 2 Vol. 1: Troubleshooters (2017)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/137126/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/63111",
+              "name": "Ultimates 2 Vol. 1: Troubleshooters (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/137126/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/63111",
+          "name": "Ultimates 2 Vol. 1: Troubleshooters (Trade Paperback)"
+        }
+      },
+      {
+        "id": 138157,
+        "title": "cover from Ultimates 2 (2016) #7",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/138157",
+        "type": "cover",
+        "modified": "2017-05-09T16:03:45-0400",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/138157/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13046",
+              "name": "Alanna Smith",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12470",
+              "name": "Christian Ward",
+              "role": "penciler (cover)"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/138157/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011339",
+              "name": "Blue Marvel"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+              "name": "Captain Marvel (Carol Danvers)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010705",
+              "name": "Spectrum"
+            }
+          ],
+          "returned": 3
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/138157/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/22929",
+              "name": "Ultimates 2 (2016 - 2017)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/138157/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/62845",
+              "name": "Ultimates 2 (2016) #7"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/138157/events",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/events/336",
+              "name": "Secret Empire"
+            }
+          ],
+          "returned": 1
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/62845",
+          "name": "Ultimates 2 (2016) #7"
+        }
+      },
+      {
+        "id": 138519,
+        "title": "cover from Ultimates 2 (2016) #6",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/138519",
+        "type": "cover",
+        "modified": "2017-04-21T15:23:29-0400",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/138519/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13046",
+              "name": "Alanna Smith",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12470",
+              "name": "Christian Ward",
+              "role": "penciler (cover)"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/138519/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+              "name": "Black Panther"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011339",
+              "name": "Blue Marvel"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+              "name": "Captain Marvel (Carol Danvers)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011061",
+              "name": "Eternity"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010705",
+              "name": "Spectrum"
+            }
+          ],
+          "returned": 5
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/138519/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/22929",
+              "name": "Ultimates 2 (2016 - 2017)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/138519/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/62718",
+              "name": "Ultimates 2 (2016) #6"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/138519/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/62718",
+          "name": "Ultimates 2 (2016) #6"
+        }
+      },
+      {
+        "id": 138689,
+        "title": "cover from Ultimates 2 (2016) #9",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/138689",
+        "type": "cover",
+        "modified": "2017-07-13T18:36:32-0400",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/138689/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13046",
+              "name": "Alanna Smith",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12470",
+              "name": "Christian Ward",
+              "role": "penciler (cover)"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/138689/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+              "name": "Black Panther"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011339",
+              "name": "Blue Marvel"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+              "name": "Captain Marvel (Carol Danvers)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009312",
+              "name": "Galactus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011300",
+              "name": "High Evolutionary"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010705",
+              "name": "Spectrum"
+            }
+          ],
+          "returned": 6
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/138689/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/22929",
+              "name": "Ultimates 2 (2016 - 2017)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/138689/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/63863",
+              "name": "Ultimates 2 (2016) #9"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/138689/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/63863",
+          "name": "Ultimates 2 (2016) #9"
+        }
+      },
+      {
+        "id": 139419,
+        "title": "cover from Ultimates 2 (2016) #100",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/139419",
+        "type": "cover",
+        "modified": "2017-07-31T10:50:21-0400",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/139419/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11543",
+              "name": "Dan Brown",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/735",
+              "name": "Travel Foreman",
+              "role": "inker (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13046",
+              "name": "Alanna Smith",
+              "role": "editor"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/139419/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+              "name": "Black Panther"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011339",
+              "name": "Blue Marvel"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+              "name": "Captain Marvel (Carol Danvers)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009312",
+              "name": "Galactus"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010705",
+              "name": "Spectrum"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010803",
+              "name": "Ultimates"
+            }
+          ],
+          "returned": 6
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/139419/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/22929",
+              "name": "Ultimates 2 (2016 - 2017)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/139419/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/64221",
+              "name": "Ultimates 2 (2016) #100"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/139419/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/64221",
+          "name": "Ultimates 2 (2016) #100"
+        }
+      },
+      {
+        "id": 142002,
+        "title": "cover from BLACK PANTHER BY REGINALD HUDLIN: THE COMPLETE COLLECTION VOL. 1 TPB (2017) #1",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/142002",
+        "type": "cover",
+        "modified": "2017-10-27T15:51:31-0400",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/142002/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/185",
+              "name": "Frank Cho",
+              "role": "penciller (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/4430",
+              "name": "Jeff Youngquist",
+              "role": "editor"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/142002/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009187",
+              "name": "Black Panther"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009191",
+              "name": "Blade"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1011090",
+              "name": "Brother Voodoo"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009215",
+              "name": "Luke Cage"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010705",
+              "name": "Spectrum"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009726",
+              "name": "X-Men"
+            }
+          ],
+          "returned": 6
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/142002/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/23806",
+              "name": "Black Panther by Reginald Hudlin: The Complete Collection Vol. 1 (2017)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/142002/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/65441",
+              "name": "Black Panther by Reginald Hudlin: The Complete Collection Vol. 1 (Trade Paperback)"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/142002/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/65441",
+          "name": "Black Panther by Reginald Hudlin: The Complete Collection Vol. 1 (Trade Paperback)"
+        }
+      },
+      {
+        "id": 145878,
+        "title": "cover from Infinity Countdown: Captain Marvel (2018) #1",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/145878",
+        "type": "cover",
+        "modified": "2018-05-23T15:47:02-0400",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/145878/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13138",
+              "name": "In-Hyuk Lee",
+              "role": "penciler (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8822",
+              "name": "Jordan White",
+              "role": "editor"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/145878/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+              "name": "Captain Marvel (Carol Danvers)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009224",
+              "name": "Captain Marvel (Mar-Vell)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010705",
+              "name": "Spectrum"
+            }
+          ],
+          "returned": 3
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/145878/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/24338",
+              "name": "Infinity Countdown: Captain Marvel (2018)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/145878/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/67346",
+              "name": "Infinity Countdown: Captain Marvel (2018) #1"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/145878/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/67346",
+          "name": "Infinity Countdown: Captain Marvel (2018) #1"
+        }
+      },
+      {
+        "id": 158856,
+        "title": "cover from No Surrender (2019) #7",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/158856",
+        "type": "cover",
+        "modified": "2019-03-21T16:38:01-0400",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/158856/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12698",
+              "name": "Yasmine Putri",
+              "role": "penciler (cover)"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/158856/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009562",
+              "name": "Scarlet Witch"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010705",
+              "name": "Spectrum"
+            }
+          ],
+          "returned": 3
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/158856/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/26034",
+              "name": "Avengers No Road Home (2019)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/158856/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/71440",
+              "name": "Avengers No Road Home (2019) #7"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/158856/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/71440",
+          "name": "Avengers No Road Home (2019) #7"
+        }
+      },
+      {
+        "id": 158860,
+        "title": "cover from No Surrender (2019) #9",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/158860",
+        "type": "cover",
+        "modified": "2019-04-02T15:58:49-0400",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/158860/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12698",
+              "name": "Yasmine Putri",
+              "role": "penciler (cover)"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/158860/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009343",
+              "name": "Hercules"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010705",
+              "name": "Spectrum"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009697",
+              "name": "Vision"
+            }
+          ],
+          "returned": 4
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/158860/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/26034",
+              "name": "Avengers No Road Home (2019)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/158860/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/71442",
+              "name": "Avengers No Road Home (2019) #9"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/158860/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/71442",
+          "name": "Avengers No Road Home (2019) #9"
+        }
+      },
+      {
+        "id": 159971,
+        "title": "cover from No Surrender (2019) #10",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/159971",
+        "type": "cover",
+        "modified": "2019-04-09T15:46:30-0400",
+        "thumbnail": null,
+        "creators": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/159971/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/2133",
+              "name": "Tom Brevoort",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12698",
+              "name": "Yasmine Putri",
+              "role": "painter (cover)"
+            }
+          ],
+          "returned": 2
+        },
+        "characters": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/159971/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009165",
+              "name": "Avengers"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009338",
+              "name": "Hawkeye"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009343",
+              "name": "Hercules"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009562",
+              "name": "Scarlet Witch"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010705",
+              "name": "Spectrum"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009697",
+              "name": "Vision"
+            }
+          ],
+          "returned": 6
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/159971/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/26034",
+              "name": "Avengers No Road Home (2019)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/159971/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/71987",
+              "name": "Avengers No Road Home (2019) #10"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/159971/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/71987",
+          "name": "Avengers No Road Home (2019) #10"
+        }
+      },
+      {
+        "id": 174878,
+        "title": "cover from Strikeforce (2019) #1",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/174878",
+        "type": "cover",
+        "modified": "2019-09-20T15:49:26-0400",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/174878/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12376",
+              "name": "Wilson Moss",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12462",
+              "name": "Andrea Sorrentino",
+              "role": "penciler (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/442",
+              "name": "Dean White",
+              "role": "colorist (cover)"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/174878/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017574",
+              "name": "Angela (Aldrif Odinsdottir)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009191",
+              "name": "Blade"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010719",
+              "name": "Daimon Hellstrom"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010705",
+              "name": "Spectrum"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009608",
+              "name": "Spider-Woman (Jessica Drew)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009714",
+              "name": "Wiccan"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010740",
+              "name": "Winter Soldier"
+            }
+          ],
+          "returned": 7
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/174878/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/27891",
+              "name": "Strikeforce (2019 - 2020)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/174878/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/78928",
+              "name": "Strikeforce (2019) #1"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/174878/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/78928",
+          "name": "Strikeforce (2019) #1"
+        }
+      },
+      {
+        "id": 178230,
+        "title": "cover from Strikeforce (2019) #2",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/178230",
+        "type": "cover",
+        "modified": "2019-10-02T20:22:02-0400",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/178230/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12376",
+              "name": "Wilson Moss",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12462",
+              "name": "Andrea Sorrentino",
+              "role": "penciler (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/442",
+              "name": "Dean White",
+              "role": "colorist (cover)"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/178230/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017574",
+              "name": "Angela (Aldrif Odinsdottir)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009191",
+              "name": "Blade"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010719",
+              "name": "Daimon Hellstrom"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010705",
+              "name": "Spectrum"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009608",
+              "name": "Spider-Woman (Jessica Drew)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009714",
+              "name": "Wiccan"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010740",
+              "name": "Winter Soldier"
+            }
+          ],
+          "returned": 7
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/178230/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/27891",
+              "name": "Strikeforce (2019 - 2020)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/178230/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/80552",
+              "name": "Strikeforce (2019) #2"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/178230/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/80552",
+          "name": "Strikeforce (2019) #2"
+        }
+      },
+      {
+        "id": 178236,
+        "title": "cover from Strikeforce (2019) #4",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/178236",
+        "type": "cover",
+        "modified": "2019-11-21T16:32:23-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/178236/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12376",
+              "name": "Wilson Moss",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10344",
+              "name": "Juan Jose Ryp",
+              "role": "penciler (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10279",
+              "name": "Matthew Wilson",
+              "role": "colorist (cover)"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 6,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/178236/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017574",
+              "name": "Angela (Aldrif Odinsdottir)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009191",
+              "name": "Blade"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010705",
+              "name": "Spectrum"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009608",
+              "name": "Spider-Woman (Jessica Drew)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009714",
+              "name": "Wiccan"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010740",
+              "name": "Winter Soldier"
+            }
+          ],
+          "returned": 6
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/178236/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/27891",
+              "name": "Strikeforce (2019 - 2020)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/178236/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/80555",
+              "name": "Strikeforce (2019) #4"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/178236/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/80555",
+          "name": "Strikeforce (2019) #4"
+        }
+      },
+      {
+        "id": 178242,
+        "title": "cover from Strikeforce (2019) #7",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/178242",
+        "type": "cover",
+        "modified": "2020-02-13T16:42:02-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/178242/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12376",
+              "name": "Wilson Moss",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10344",
+              "name": "Juan Jose Ryp",
+              "role": "penciler (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10279",
+              "name": "Matthew Wilson",
+              "role": "colorist (cover)"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/178242/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017574",
+              "name": "Angela (Aldrif Odinsdottir)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009191",
+              "name": "Blade"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010719",
+              "name": "Daimon Hellstrom"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009268",
+              "name": "Deadpool"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010705",
+              "name": "Spectrum"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009608",
+              "name": "Spider-Woman (Jessica Drew)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009714",
+              "name": "Wiccan"
+            }
+          ],
+          "returned": 7
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/178242/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/27891",
+              "name": "Strikeforce (2019 - 2020)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/178242/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/80558",
+              "name": "Strikeforce (2019) #7"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/178242/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/80558",
+          "name": "Strikeforce (2019) #7"
+        }
+      },
+      {
+        "id": 178244,
+        "title": "cover from Strikeforce (2019) #8",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/178244",
+        "type": "cover",
+        "modified": "2019-06-24T09:28:37-0400",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/178244/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12376",
+              "name": "Wilson Moss",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10344",
+              "name": "Juan Jose Ryp",
+              "role": "penciler (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10279",
+              "name": "Matthew Wilson",
+              "role": "colorist (cover)"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/178244/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017574",
+              "name": "Angela (Aldrif Odinsdottir)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009191",
+              "name": "Blade"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010719",
+              "name": "Daimon Hellstrom"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010705",
+              "name": "Spectrum"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009608",
+              "name": "Spider-Woman (Jessica Drew)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009714",
+              "name": "Wiccan"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010740",
+              "name": "Winter Soldier"
+            }
+          ],
+          "returned": 7
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/178244/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/27891",
+              "name": "Strikeforce (2019 - 2020)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/178244/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/80559",
+              "name": "Strikeforce (2019) #8"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/178244/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/80559",
+          "name": "Strikeforce (2019) #8"
+        }
+      },
+      {
+        "id": 178246,
+        "title": "cover from Strikeforce (2019) #9",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/178246",
+        "type": "cover",
+        "modified": "2019-06-24T09:28:39-0400",
+        "thumbnail": null,
+        "creators": {
+          "available": 5,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/178246/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13038",
+              "name": "Daniel Mora",
+              "role": "inker (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12376",
+              "name": "Wilson Moss",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10344",
+              "name": "Juan Jose Ryp",
+              "role": "penciler (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/10279",
+              "name": "Matthew Wilson",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13003",
+              "name": "Nolan Woodard",
+              "role": "colorist (cover)"
+            }
+          ],
+          "returned": 5
+        },
+        "characters": {
+          "available": 8,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/178246/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017574",
+              "name": "Angela (Aldrif Odinsdottir)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009191",
+              "name": "Blade"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010719",
+              "name": "Daimon Hellstrom"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009268",
+              "name": "Deadpool"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010705",
+              "name": "Spectrum"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009608",
+              "name": "Spider-Woman (Jessica Drew)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009714",
+              "name": "Wiccan"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010740",
+              "name": "Winter Soldier"
+            }
+          ],
+          "returned": 8
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/178246/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/27891",
+              "name": "Strikeforce (2019 - 2020)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/178246/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/80560",
+              "name": "Strikeforce (2019) #9"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/178246/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/80560",
+          "name": "Strikeforce (2019) #9"
+        }
+      },
+      {
+        "id": 192615,
+        "title": "cover from Captain Marvel (2019) #17",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/192615",
+        "type": "cover",
+        "modified": "2020-03-27T11:02:47-0400",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/192615/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13200",
+              "name": "Sarah Brunstad",
+              "role": "editor"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/872",
+              "name": "Marte Gracia",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/11947",
+              "name": "Pepe Larraz",
+              "role": "penciler (cover)"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 4,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/192615/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010338",
+              "name": "Captain Marvel (Carol Danvers)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010667",
+              "name": "Jessica Drew"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010705",
+              "name": "Spectrum"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009718",
+              "name": "Wolverine"
+            }
+          ],
+          "returned": 4
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/192615/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/26673",
+              "name": "Captain Marvel (2019 - Present)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/192615/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/86494",
+              "name": "Captain Marvel (2019) #17"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/192615/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/86494",
+          "name": "Captain Marvel (2019) #17"
+        }
+      },
+      {
+        "id": 200943,
+        "title": "cover from Symbiote Spider-Man: King in Black (2020) #3",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/200943",
+        "type": "cover",
+        "modified": "2020-02-06T09:07:56-0500",
+        "thumbnail": null,
+        "creators": {
+          "available": 3,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/200943/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/8504",
+              "name": "Frank D'ARMATA",
+              "role": "colorist (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/425",
+              "name": "Greg Land",
+              "role": "penciler (cover)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/12457",
+              "name": "Edward Devin Lewis",
+              "role": "editor"
+            }
+          ],
+          "returned": 3
+        },
+        "characters": {
+          "available": 2,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/200943/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010705",
+              "name": "Spectrum"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009610",
+              "name": "Spider-Man"
+            }
+          ],
+          "returned": 2
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/200943/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/31035",
+              "name": "Symbiote Spider-Man: King in Black (2020 - Present)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/200943/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/90120",
+              "name": "Symbiote Spider-Man: King in Black (2020) #3"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/200943/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/90120",
+          "name": "Symbiote Spider-Man: King in Black (2020) #3"
+        }
+      },
+      {
+        "id": 205422,
+        "title": "cover from new series (2021) #1",
+        "description": "",
+        "resourceURI": "http://gateway.marvel.com/v1/public/stories/205422",
+        "type": "cover",
+        "modified": "2020-08-12T09:02:02-0400",
+        "thumbnail": null,
+        "creators": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/205422/creators",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/creators/13200",
+              "name": "Sarah Brunstad",
+              "role": "editor"
+            }
+          ],
+          "returned": 1
+        },
+        "characters": {
+          "available": 7,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/205422/characters",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009191",
+              "name": "Blade"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009277",
+              "name": "Domino"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009381",
+              "name": "Jubilee"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1017577",
+              "name": "Ms. Marvel (Kamala Khan)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1010705",
+              "name": "Spectrum"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1016181",
+              "name": "Spider-Man (Miles Morales)"
+            },
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/characters/1009629",
+              "name": "Storm"
+            }
+          ],
+          "returned": 7
+        },
+        "series": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/205422/series",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/series/31548",
+              "name": "Marvel's Voices: Legacy (2021)"
+            }
+          ],
+          "returned": 1
+        },
+        "comics": {
+          "available": 1,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/205422/comics",
+          "items": [
+            {
+              "resourceURI": "http://gateway.marvel.com/v1/public/comics/92169",
+              "name": "Marvel's Voices: Legacy (2021) #1"
+            }
+          ],
+          "returned": 1
+        },
+        "events": {
+          "available": 0,
+          "collectionURI": "http://gateway.marvel.com/v1/public/stories/205422/events",
+          "items": [],
+          "returned": 0
+        },
+        "originalIssue": {
+          "resourceURI": "http://gateway.marvel.com/v1/public/comics/92169",
+          "name": "Marvel's Voices: Legacy (2021) #1"
+        }
+      }
+    ]
+  }
+}

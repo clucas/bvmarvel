@@ -1,0 +1,18 @@
+default: &default
+  config:
+    base_url: 'http://gateway.marvel.com'
+    characters_path: '/v1/public/characters'
+    character_stories_path: '/v1/public/characters/:id/stories'
+    stories_characters_path: '/v1/public/stories/:story_id/characters'
+#  api_keys:
+#    public_key: <%= Rails.application.credentials.keys[:public_key] %> #a0ca49677e748ef8d112b5e9ff0ea970
+#    private_key: <%= Rails.application.credentials.keys[:private_key] %> #c4db2f59333f8f204445bda2b608e4d25792fdcb
+
+development:
+  <<: *default
+
+test:
+  <<: *default
+
+production:
+  <<: *default

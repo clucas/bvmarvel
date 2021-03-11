@@ -1,0 +1,11 @@
+default: &default
+  heroku_host: aqueous-ravine-19157.herokuapp.com
+
+development:
+  <<: *default
+
+test:
+  <<: *default
+
+production:
+  <<: *default
