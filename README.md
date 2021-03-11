@@ -38,7 +38,7 @@ API calls used to retrieve the data from the Marvel API:
  - PostgreSQL 13.2 
  - Docker 20.10.x, Docker Compose 1.27.x
  
- # Local installation instructsions
+ # Local installation instructions
  ```Bash
 ./init.sh
  ```
