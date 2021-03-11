@@ -43,4 +43,4 @@ API calls used to retrieve the data from the Marvel API:
 ./init.sh
  ```
 
-* Access to the Postgres database (port: 3432, username: bvmarvel, password: password)
+* Access to the Postgres database (port: 3432, username: postgres, password: password)
